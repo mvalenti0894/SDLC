@@ -2,6 +2,10 @@ Definitions of SDLC
 
 Purpose
 
-stages
-
+Stages
+Planning
+analysis
+design
+development
+testing
 Methodologies
