@@ -10,4 +10,8 @@ development
 testing
 implementation
 maintenance
+
 Methodologies
+lean
+waterfall
+spiral
